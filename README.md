@@ -19,7 +19,7 @@ Vector databases are powerful tools for managing and querying embeddings generat
 
 To run this code, you need the following:
 
-- Python 3.10+
+- Python 3.8+
 - Pinecone account and API key
 - OpenAI account and API key
 
